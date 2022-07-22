@@ -1,4 +1,4 @@
-baseURL: "//cristeandrei.github.io/blog"
+baseURL: "//cristeandrei.github.io/blog/"
 title: Blog
 paginate: 5
 theme: PaperMod
