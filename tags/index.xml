@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Blog</title>
-    <link>//cristeandrei.github.io/blog/tags/</link>
+    <link>https://cristeandrei.github.io/blog/tags/</link>
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//cristeandrei.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristeandrei.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>firebase</title>
-      <link>//cristeandrei.github.io/blog/tags/firebase/</link>
+      <link>https://cristeandrei.github.io/blog/tags/firebase/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>//cristeandrei.github.io/blog/tags/firebase/</guid>
+      <guid>https://cristeandrei.github.io/blog/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>//cristeandrei.github.io/blog/tags/javascript/</link>
+      <link>https://cristeandrei.github.io/blog/tags/javascript/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>//cristeandrei.github.io/blog/tags/javascript/</guid>
+      <guid>https://cristeandrei.github.io/blog/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>//cristeandrei.github.io/blog/tags/project/</link>
+      <link>https://cristeandrei.github.io/blog/tags/project/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>//cristeandrei.github.io/blog/tags/project/</guid>
+      <guid>https://cristeandrei.github.io/blog/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>//cristeandrei.github.io/blog/tags/react/</link>
+      <link>https://cristeandrei.github.io/blog/tags/react/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>//cristeandrei.github.io/blog/tags/react/</guid>
+      <guid>https://cristeandrei.github.io/blog/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redux</title>
-      <link>//cristeandrei.github.io/blog/tags/redux/</link>
+      <link>https://cristeandrei.github.io/blog/tags/redux/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>//cristeandrei.github.io/blog/tags/redux/</guid>
+      <guid>https://cristeandrei.github.io/blog/tags/redux/</guid>
       <description></description>
     </item>
     
