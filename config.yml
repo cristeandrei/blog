@@ -1,0 +1,92 @@
+baseURL: "https://cristeandrei.github.io"
+title: Blog
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+params:
+    env: production 
+    description: "Welcome to my blog, here I post small projects about technologies I find interesting and document my learning journey."
+    author: Andrei Criste
+
+    defaultTheme: auto
+    ShowShareButtons: false
+    ShowReadingTime: true
+    disableSpecial1stPost: false
+    displayFullLangName: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    comments: true
+
+    homeInfoParams:
+        Title: "![general kenobi](https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)"
+        Content: > 
+              Welcome to my blog,
+              here I post small projects about technologies I find interesting and document my learning journey.
+
+    socialIcons:
+      - name: github
+        url: "https://github.com/CristeAndrei"
+      - name: linkedin
+        url: "https://linkedin.com/in/andrei-criste-251311218/"
+      - name: email
+        url: "mailto:cristeandreiflorin@gmail.com"
+
+    editPost:
+        URL: "https://github.com/CristeAndrei/hugo-blog/tree/master/content"
+        Text: "Suggest Changes"
+        appendFilePath: true
+
+    assets:
+        disableHLJS: false
+        favicon: "/icons/favicon.ico"
+        favicon16x16:  "/icons/favicon-16x16.png"
+        favicon32x32:  "/icons/favicon-32x32.png"
+        apple_touch_icon:  "/icons/apple-touch-icon.png"
+        safari_pinned_tab:  "/icons/safari-pinned-tab.svg"
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: search
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: tags
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: archives
+      weight: 20
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
