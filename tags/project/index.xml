@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>project on Blog</title>
+    <link>https://cristeandrei.github.io/tags/project/</link>
+    <description>Recent content in project on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristeandrei.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal finances PWA</title>
+      <link>https://cristeandrei.github.io/posts/projects/personal-finances/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristeandrei.github.io/posts/projects/personal-finances/</guid>
+      <description>Mobile first PWA for keeping track of expenses and income, and for providing other useful functionalities.</description>
+    </item>
+    
+  </channel>
+</rss>
