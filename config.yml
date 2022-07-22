@@ -1,4 +1,4 @@
-baseURL: "https://cristeandrei.github.io/blog/"
+baseURL: "https://cristeandrei.github.io/blog"
 title: Blog
 paginate: 5
 theme: PaperMod
@@ -50,11 +50,11 @@ params:
 
     assets:
         disableHLJS: false
-        favicon: "icons/favicon.ico"
-        favicon16x16:  "icons/favicon-16x16.png"
-        favicon32x32:  "icons/favicon-32x32.png"
-        apple_touch_icon:  "icons/apple-touch-icon.png"
-        safari_pinned_tab:  "icons/safari-pinned-tab.svg"
+        favicon: "/icons/favicon.ico"
+        favicon16x16:  "/icons/favicon-16x16.png"
+        favicon32x32:  "/icons/favicon-32x32.png"
+        apple_touch_icon:  "/icons/apple-touch-icon.png"
+        safari_pinned_tab:  "/icons/safari-pinned-tab.svg"
 
     fuseOpts:
         isCaseSensitive: false
