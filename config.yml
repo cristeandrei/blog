@@ -1,6 +1,6 @@
 baseURL: "https://cristeandrei.github.io"
 title: Blog
-paginate: 7
+paginate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
